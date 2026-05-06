@@ -1,0 +1,2 @@
+⚠️ HIGH RISK: 95% VaR = 2.10% or 1.88% daily loss likely
+⚠️ HIGH RISK: 99% VaR = 3.00% or 3.24% daily loss likely
